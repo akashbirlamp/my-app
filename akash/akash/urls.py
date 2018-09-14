@@ -10,3 +10,4 @@ urlpatterns = [
 # fr second url check krega or movie1 = True me jayga fr movie1 ke url ko check krega
 #mayank sharma
 #akash birla
+#divhya
