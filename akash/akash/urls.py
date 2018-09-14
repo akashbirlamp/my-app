@@ -9,3 +9,4 @@ urlpatterns = [
 # sbse phle browser url check krega EX= 127.0.0.1:8000/admin = False
 # fr second url check krega or movie1 = True me jayga fr movie1 ke url ko check krega
 #mayank sharma
+#akash birla
